@@ -1,0 +1,60 @@
+[
+    {
+        "id" : "1",
+        "name" : "Cummins C225D5P 225 KVA Generator",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "cylinder" : "6",
+        "price" : 90000,
+        "image" : "Cummins C225D5P 225 KVA Generator.jpg",
+        "kva" : "225"
+    },
+    {
+        "id" : "2",
+        "name" : "Cummins C275D5S 275 KVA Generator",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "cylinder" : "6",
+        "price" : 100000,
+        "image" : "Cummins C275D5S 275 KVA Generator.jpg",
+        "kva" : "275"
+    },
+    {
+        "id" : "3",
+        "name" : "Cummins C650D5P 650 KVA Generator",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "cylinder" : "6",
+        "price" : 95000,
+        "image" : "Cummins C650D5P 650 KVA Generator.jpg",
+        "kva" : "650"
+    },
+  
+    {
+        "id" : "4",
+        "name" : "Cummins C1010D5P 1010 KVA Generator",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "cylinder" : "12",
+        "price" : 199999,
+        "image" : "Cummins C1010D5P 1010 KVA Generator.jpg",
+        "kva" : "1010"
+    },
+    {
+        "id" : "5",
+        "name" : "Cummins C1250 D5 P 1250 KVA Generator",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "cylinder" : "12",
+        "price" : 224999,
+        "image" : "Cummins C1250 D5 P 1250 KVA Generator.jpg",
+        "kva" : "1250"
+    },
+    {
+        "id" : "6",
+        "name" : "Cummins C1500 D5 P 1500 KVA Generator",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "cylinder" : "12",
+        "price" : 244999,
+        "image" : "Cummins C1500 D5 P 1500 KVA Generator.jpg",
+        "kva" : "1500"
+    }
+    
+
+    
+]

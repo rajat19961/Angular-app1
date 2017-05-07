@@ -1,0 +1,25 @@
+ 
+      
+          <div class="jumbotron" style="background-image : url(http://4.bp.blogspot.com/_5iz3tRKEXTY/TVFGsOpdCRI/AAAAAAAAAAs/NbkWnyvBuhM/s1600/wallpaper-fractal-art-celestial-life-generator-jack-haas.jpg); background-size:100%;">
+          
+              <h2 style="color:white;">Techno Power Engineers</h2>
+              <p style="color:white;">Machines are our friend</p>
+          
+          </div>
+          
+      
+Search item<input type="text" ng-model="search_val" value="">
+Incresing Price<input type ="radio" ng-model="pricefilter" ng-value="false">
+Decreasing Price<input type ="radio" ng-model="pricefilter" ng-value="true">
+<div class="row">
+   
+
+<div class="col-md-4 view1" ng-repeat="set in sets | orderBy:'price':pricefilter | filter:search_val">
+    <h3>{{set.name}}</h3>
+        <img ng-src="img/{{set.image}}">
+    
+    <h4>{{set.price | currency:'₹'}}</h4>
+    <a href="#/home/{{set.id}}" class="btn btn-success btn-block">Details</a>
+    
+    </div>
+</div>
